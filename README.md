@@ -1,4 +1,4 @@
-# PalindroneCh
+# PalindroneChecker
 // running procedure
 // flow of project
 // objective
